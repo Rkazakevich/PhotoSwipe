@@ -1,4 +1,4 @@
-PhotoSwipe v5 — JavaScript image gallery and lightbox
+zoom-photo — JavaScript image gallery and lightbox
 
 ### Repo structure
 
